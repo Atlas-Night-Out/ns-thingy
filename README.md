@@ -44,10 +44,11 @@
 "rotate":false
 }
 ```
-8. Copy the updated config.json into the root of the SD Card (single file, don't create any directories)
-9. Insert the SD Card into the slot in the back of ns-thingy 
-10. Open the ns-thingy.ino sketch in Arduino IDE if you haven't already  
-11. If you are still reading this: plug your ns-thingy into the USB port of your PC
-12. Select the proper board from the dropdown in Arduino IDE and hit "Upload"
+8. Make sure the SD card is formatted as FAT32 to avoid potential issues - use [Rufus](https://rufus.ie) to format it if in doubt
+9. Copy the updated config.json into the root of the SD Card (single file, don't create any directories)
+10. Insert the SD Card into the slot in the back of ns-thingy 
+11. Open the ns-thingy.ino sketch in Arduino IDE if you haven't already  
+12. If you are still reading this: plug your ns-thingy into the USB port of your PC
+13. Select the proper board from the dropdown in Arduino IDE and hit "Upload"
 ![Arduino IDE Upload](Images/arduino-upload.png) 
-13. Hopefully, you should have your own ns-thingy now ;) 
+14. Hopefully, you should have your own ns-thingy now ;) 
