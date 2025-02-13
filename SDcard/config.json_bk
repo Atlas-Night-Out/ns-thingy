@@ -1,0 +1,9 @@
+{
+"wifi_ssid":"YOUR_WIFI_NETWORK_NAME",
+"wifi_password":"YOUR_WIFI_NETWORK_PASSWORD",
+"nightscout_url":"https://YOUR_NIGHTSCOUT_ADDRESS",
+"access_token":"",
+"mmol":false,
+"use_led":true,
+"rotate":false
+}

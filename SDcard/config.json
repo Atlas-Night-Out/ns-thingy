@@ -1,9 +1,9 @@
 {
-"wifi_ssid":"YOUR_WIFI_NETWORK_NAME",
-"wifi_password":"YOUR_WIFI_NETWORK_PASSWORD",
-"nightscout_url":"https://YOUR_NIGHTSCOUT_ADDRESS",
+"wifi_ssid":"VM3372867",
+"wifi_password":"sLzTnvXd99?",
+"nightscout_url":"https://atlasnightsout.herokuapp.com/",
 "access_token":"",
-"mmol":false,
+"mmol":true,
 "use_led":true,
 "rotate":false
 }
